@@ -18,7 +18,7 @@ public class TestM05_19DIC {
         //Primera prueba
         
         int i = 0;
-        while(i>100)
+        while(i>50)
         {
             System.out.println("Valor de i :" + i);
         }
